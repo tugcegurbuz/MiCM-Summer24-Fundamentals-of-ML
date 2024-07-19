@@ -27,7 +27,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/tugcegurbuz/MiCM-Summer24-Fundamentals-of-ML/blob/main/tutorials/0_Introduction_to_Google_Colab_Basics_and_Pytorch.ipynb](https://colab.research.google.com/drive/1YDO7bxN4cdKsLvxes7KRuy804EcoyB2u?usp=sharing)) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1RkT2mrE7_jshnMI1AIFJ2iC0XX9oLcU5?usp=sharing)) |)
 
 
 ### Multi Layer Perceptrons
