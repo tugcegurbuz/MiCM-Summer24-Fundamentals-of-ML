@@ -36,7 +36,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iJ-4KhxIqx8kdRxstHLb2FyELldGKc9Q?usp=sharing) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sg9PnMTWzNksLBhmYgYk1fmGNYsZF2Fh?usp=sharing) |)
 
 
 
@@ -46,7 +46,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QWd3XRxNhhNwUZIbHKlDDBCGvqxcLJ4-?usp=sharing) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bKGO95iHhKqlJjzgcjj8EiJi-VEUkst5?usp=sharing) |)
 
 ### Regularization
 * Slides: [Regularization](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/3_Regularization.pdf)
@@ -54,8 +54,8 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 |   | Run |
 | - | --- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18bv3TLOwTs1ff67x62iRQkzxuURAjzID?usp=sharing) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-rn_9z8zRFfiXRBf5MIm2bdijJOudma-?usp=sharing) |)
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IsZzK11Sr0CQhpssmqVS_AbyzcPsSwjP?usp=sharing) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VT6XlfIZSu_GsywwUJ0UKqdWYXFOMsaq?usp=sharing) |)
 
 
 
