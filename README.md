@@ -31,7 +31,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 
 ### Multi Layer Perceptrons
-* Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
+* Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM-Summer24-Fundamentals-of-ML/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
 * *Classify hand-written digits with MLPs*
 
 |   | Run |
@@ -42,7 +42,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 
 ### Optimization
-* Slides: [Optimization](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/2_Optimization.pdf)
+* Slides: [Optimization](https://github.com/tugcegurbuz/MiCM-Summer24-Fundamentals-of-ML/blob/main/lectures/2_Optimization.pdf)
 * *Learn the magic behind machine learning*
 
 |   | Run |
@@ -50,7 +50,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 | Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bKGO95iHhKqlJjzgcjj8EiJi-VEUkst5?usp=sharing) |)
 
 ### Regularization
-* Slides: [Regularization](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/3_Regularization.pdf)
+* Slides: [Regularization](https://github.com/tugcegurbuz/MiCM-Summer24-Fundamentals-of-ML/blob/main/lectures/3_Regularization.pdf)
 * *Build better machine learning models*
 
 |   | Run |
