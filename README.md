@@ -40,6 +40,7 @@ The workshop provides a comprehensive introduction to neural networks, focusing 
 
 
 
+
 ### Optimization
 * Slides: [Optimization](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/2_Optimization.pdf)
 * *Learn the magic behind machine learning*
