@@ -2,7 +2,7 @@
 
 Workshop Schedule:
 * **Jul 24th, ML Time <3** (9 AM - 1 PM) @Education Building, Room 133 (3700 McTavish Street)
-* Instructor: Tugce Gurbuz
+* Workshop Lead: Tugce Gurbuz
 * T.A.: TBA
 
 ## Prerequisites: 
